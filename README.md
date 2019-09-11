@@ -4,13 +4,13 @@ A Windows 64bit Driver for the Steel Battalion controller
 
 This driver will let you use your old Steel Battalion controller as a USB-HID gamepad in a windows system.
 
-## How to install driver
+## How to install the driver
 
 Read [How to use the Steel Battalion Controller on Windows 10](https://medium.com/@oscarsc/how-to-use-the-steel-battalion-controller-on-windows-10-2e21aa8ccd28)
 
 ## Where does it work
 
-If the game lets you configure generic gamepads or joysticks you will probably be able to use the Steel Battalion 
+If the game you want to use the controller with lets you configure generic gamepads or joysticks you will probably be able to use the Steel Battalion 
 controller without any modifications to the game.
 
 If you are using steam and the game only supports XInput controllers (Xbox-like gamepads) you can map the Steel Battalion
